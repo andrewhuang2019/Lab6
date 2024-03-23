@@ -7,7 +7,7 @@ printMatrix - prints the matrix in a easy to see format.
 addMatrix - adds matrix 1 and matrix 2 together, returns and prints the resulting matrix.  
 multiplyMatrix - multiplies matrix 1 and matrix 2, returns and prints the resulting matrix.  
 subtractMatrix - subtracts matrix 2 from matrix 1, returns and prints the resulting matrix.  
-updateMatrix - updates matrix 1 with value in row and column and prints the matrix. 
-maxValue - prints the max value of matrix 1. 
-transposeMatrix - transposes matrix 1 and prints the matrix. 
+updateMatrix - updates matrix 1 with value in row and column and prints the matrix.  
+maxValue - prints the max value of matrix 1.  
+transposeMatrix - transposes matrix 1 and prints the matrix.  
 main - runs all of the functions.  
